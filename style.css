@@ -1,6 +1,6 @@
 body {
-    background-image: url('webBackground.jpg');
-    background-repeat: repeat;
+    height: auto;
+    background: linear-gradient(180deg, #80aeaf, #9c5967);
 }
 .websiteHeader {
     width: 20%;
